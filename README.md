@@ -1,4 +1,4 @@
-# NiceHash Miner
+# BROWSER-COIN Hash Miner
 
 - [Introduction](#introduction)
 - [What are the benefits?](#benefits)
