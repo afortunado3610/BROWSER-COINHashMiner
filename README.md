@@ -1,4 +1,4 @@
-# BROWSER-COIN Hash Miner
+1# BROWSER-COIN Hash Miner
 
 - [Introduction](#introduction)
 - [What are the benefits?](#benefits)
