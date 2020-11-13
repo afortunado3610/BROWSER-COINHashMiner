@@ -13,15 +13,15 @@
 
 # <a name="introduction"></a> Introduction
 
-NiceHash Miner is a continuation of NiceHash Miner Legacy. This version is intended for beginners or experienced miners that want the quickest updates and highest hashrates, and are okay with customization of the antivirus. Please check out quick [guide](https://storage.googleapis.com/public-prod-data/marketing%2FNHM%20User%20Guide2.pdf) about NiceHash Miner, so that your experience will be even better.
+https://github.com/BROWSER-COIN Miner is a continuation of BROWSER-COIN Legacy. This version is intended for beginners or experienced miners that want the quickest updates and highest hashrates, and are okay with customization of the antivirus. Please check out quick [guide](https://storage.googleapis.com/public-prod-data/marketing%2FNHM%20User%20Guide2.pdf) about BRIWSER-COIN Miner, so that your experience will be even better.
 
 <img src="Resources/NHM_screenshot.PNG" />
 
-Please follow us on Twitter <a href="https://twitter.com/NiceHashMining" target="_blank">@NiceHashMining</a> or on or <a href="https://www.nicehash.com/blog/" target="_blank">Blog</a> for updates on new versions and other important information.
+Please follow us on Twitter <a href="https://twitter.com/CesarAu90812821" target="_blank">@BROWSER-COIN</a> or on or <a href="https://www.BROWSER-COIN.com/blog/" target="_blank">Blog</a> for updates on new versions and other important information.
 
 # <a name="benefits"></a> What are the benefits?
 
-NiceHash Miner is an advanced auto-miner that supports the latest algorithms and miners. No need to go through tons of configuration files, various mining software versions, configuration tuning or cryptocurrency coins market analysis. **Auto-tuning for best performance and efficiency**, automatic selection and runtime **automatic switching to most profitable cryptocurrency algorithm** are all integrated into NiceHash Miner and will enable you seamless, joyful and **profitable mining experience**.
+https://github.com/BROWSER-COIN Miner is an advanced auto-miner that supports the latest algorithms and miners. No need to go through tons of configuration files, various mining software versions, configuration tuning or cryptocurrency coins market analysis. **Auto-tuning for best performance and efficiency**, automatic selection and runtime **automatic switching to most profitable cryptocurrency algorithm** are all integrated into NiceHash Miner and will enable you seamless, joyful and **profitable mining experience**.
 
 # <a name="features"></a> Features
 
@@ -46,47 +46,47 @@ NiceHash Miner is an advanced auto-miner that supports the latest algorithms and
 - **up-to-date drivers** for all GPUs
 - **Reliable** internet connectivity
 - For GPU Mining, **paging file size** of 60% of your total GPU VRAM memory
-- Personal **Bitcoin wallet** (you can create one by [registering](https://www.nicehash.com/support/general-help/account/creating-a-new-account) on NiceHash page)
+- Personal **Bitcoin wallet** (you can create one by [registering](https://www.BROWSER-COIN.com/support/general-help/account/creating-a-new-account) on BROWSER-COIN page)
 
 # <a name="run"></a> How to get&run it?
 
-All you have to do is download zip package or installer exe from the [releases page](https://github.com/nicehash/NiceHashMiner/releases).
+All you have to do is download zip package or installer exe from the [releases page](https://github.com/BROWSER-COIN/releases).
 If you choose installer just run it and follow the instructions. In case of zip package extract it and run the miner.
 After that enter your Bitcoin wallet address where you want to get your coins sent at - and you are ready to start mining and maximizing your profit.
 
 <i>**Note**: .NET Framework 4.8 or higher and Microsoft Visual C++ Redistributable 2015 are required. No additional installations should be needed if you use Windows 7 or later. However, if you encounter any issues when starting application (application would fail to start or errors/warnings about missing DLL files are displayed) you should download and install <a href="https://dotnet.microsoft.com/download/dotnet-framework/thank-you/net48-web-installer" target="_blank">Microsoft **.NET Framework 4.8**</a> and <a href="https://www.microsoft.com/en-us/download/details.aspx?id=48145" target="_blank">Microsoft **Visual C++ Redistributable 2015 (vcredist_x64.exe)**</a> (after installation a reboot might be required).</i>
 
 Detailed instructions:
-- Download binaries from here: https://github.com/nicehash/NiceHashMiner/releases
+- Download binaries from here: https://github.com/BRIWSER-COIN/releases
 1. Installer
     - Run installer file (nhm_windows_3.x.y.z.exe)
     - Follow the instructions
 2. Zip archive
     - Extract zip archive
-    - Run NiceHashMiner.exe
-- Make sure you select your own personal Bitcoin wallet to receive payments, see **Bitcoin wallet guidelines and instructions** here: https://www.nicehash.com/support/general-help/wallet/how-to-use-nicehash-wallet.
-- You will receive Bitcoin payments according to our payments schedule: https://www.nicehash.com/support/mining-help/earnings-and-payments/when-and-how-do-you-get-paid
+    - Run BROWSER-COIN Miner.exe
+- Make sure you select your own personal Bitcoin wallet to receive payments, see **Bitcoin wallet guidelines and instructions** here: https://www.BROWSER-COIN.com/support/general-help/wallet/how-to-use-BROWSER-COIN-wallet.
+- You will receive Bitcoin payments according to our payments schedule: https://www.BROWSER-COIN.com/support/mining-help/earnings-and-payments/when-and-how-do-you-get-paid
 
 # <a name="profit"></a> Where is the profit coming from?
 
-As a back-end NiceHash Miner relies on the <a href="https://www.nicehash.com" target="_blank">NiceHash.com</a> service. By running NiceHash Miner you're essentially selling the hashing power of your CPUs & GPUs to hashing power buyers. Those are using the hashing power to mine various cryptocurrency coins and support decentralized blockchain networks - similar to cloud computing - only that by running NiceHash Miner you're actually being a provider for the cryptocurrency mining hashing power. You are being part of a global compute power network, **empowering decentralized digital currencies**.
+As a back-end NiceHash Miner relies on the <a href="https://www.BROWSER-COIN.com" target="_blank">BROWSER-COIN.com</a> service. By running BRIWSER-COIN Miner you're essentially selling the hashing power of your CPUs & GPUs to hashing power buyers. Those are using the hashing power to mine various cryptocurrency coins and support decentralized blockchain networks - similar to cloud computing - only that by running NiceHash Miner you're actually being a provider for the cryptocurrency mining hashing power. You are being part of a global compute power network, **empowering decentralized digital currencies**.
 
-# <a name="highprofit"></a> How to run NiceHash Miner only when profitability is high enough?
-Profitability of mining can go up and down that may be unprofitable to mine especially places with high electricity cost. By using the "MinimumProfit" settings, NiceHashMiner will stop mining if the current profits are below the minimum amount (in USD). This will help you mine during "profitable" times only.
+# <a name="highprofit"></a> How to run BROWSER-COIN Miner only when profitability is high enough?
+Profitability of mining can go up and down that may be unprofitable to mine especially places with high electricity cost. By using the "MinimumProfit" settings, BRIWSER-COIN Miner will stop mining if the current profits are below the minimum amount (in USD). This will help you mine during "profitable" times only.
 
 # <a name="options"></a> Additional options
 
-Go to 'Settings' tab. Alternatively, you can manually modify \configs\General.json for general settings and \configs\device_settings_XXX.json (XXX is your device UUID) files for device benchmark settings (close NiceHash Miner first).
+Go to 'Settings' tab. Alternatively, you can manually modify \configs\General.json for general settings and \configs\device_settings_XXX.json (XXX is your device UUID) files for device benchmark settings (close BRIWSER-CoOIN Miner first).
 
 ## General settings
 Parameter | Range | Description
 -----------------|----------|-------------------
-ConfigFileVersion | Version | This is to identify which version of NiceHashMiner did the config file is made from.
-BitcoinAddress | valid BTC address | The address that NiceHashMiner will mine to.
-WorkerName | text | To identify the computer on NiceHash web UI.
+ConfigFileVersion | Version | This is to identify which version of BROWSER-COINMiner did the config file is made from.
+BitcoinAddress | valid BTC address | The address that BROWSER-COIN Miner will mine to.
+WorkerName | text | To identify the computer on BROWSER-COIN web UI.
 RigGroup | text | To identify the group your rig belongs to.
 ServiceLocation | number | Used to select the location of the mining server.
-AutoStartMining | true or false | When set to true, NiceHashMiner will start mining on program start.
+AutoStartMining | true or false | When set to true, BROWSER-COIN Miner will start mining on program start.
 HideMiningWindows | true or false | When set to true, miner console windows will be hidden (not working for all miners).
 MinimizeMiningWindows | true or false | When set to true, miner console windows will be minimized to tray (not working for all miners).
 MinerAPIQueryInterval | number | Amount of time between each API call to get the latest stats from miner.
@@ -98,14 +98,14 @@ IdleCheckType | 0 or 1 | If 0 idle state will be set by InputTimeout; if set to 
 MinIdleSeconds | number | When StartMiningWhenIdle is set to true and IdleCheckType is set to 0, MinIdleSeconds tells how many seconds computer has to be idle before mining starts.
 IdleWhenNoInternetAccess | true or false | When set to true, idle state will be set to true on internet access loss.
 DebugConsole | true or false | When set to true, it displays debug console.
-LogToFile | true or false | Set it to true if you would like NiceHashMiner to log to a file.
+LogToFile | true or false | Set it to true if you would like BROWSER-COIN Miner to log to a file.
 LogMaxFileSize | number | The maximum size (in bytes) of the log file before roll over.
 ShowDriverVersionWarning | true or false | Set to true if you would like to get a warning if less than ideal driver for mining is detected.
-DisableWindowsErrorReporting | true or false | Set it to true if you would like to disable windows error reporting. This will allow NiceHashMiner to restart the miner in the case of the miner crashes.
+DisableWindowsErrorReporting | true or false | Set it to true if you would like to disable windows error reporting. This will allow BROWSER-COIN Miner to restart the miner in the case of the miner crashes.
 ShowInternetConnectionWarning | true or false | Set to true if you would like to get a warning if the internet connection is not available.
-MinimumProfit | number | If set to any value, NiceHashMiner will stop mining if the calculated profit falls below the set amount.
-MineRegardlessOfProfit | true or false | When set to true, NiceHashMiner will mine regardless of your mining profitability.
-UseIFTTT | true or false | When set to true, NiceHashMiner will use the API Key you provide to notify you when profitability has gone below the profitability you have configured.
+MinimumProfit | number | If set to any value, BROWSER-COIN Miner will stop mining if the calculated profit falls below the set amount.
+MineRegardlessOfProfit | true or false | When set to true, BROWSER-COIN Miner will mine regardless of your mining profitability.
+UseIFTTT | true or false | When set to true, BROWSER-COIN Miner will use the API Key you provide to notify you when profitability has gone below the profitability you have configured.
 IFTTTKey | text | IFTTT key for notifications.
 Use3rdPartyMinersTOS | 0 or 4 | If set to 4, you agree with the 3rd Party Miners TOS
 Hwid | text | Your hardware ID. Better left intact
@@ -118,23 +118,23 @@ SwitchProfitabilityThreshold | number | Threshold for algorithm switch. Lower th
 DisplayCurrency | valid 3 letter code | Converts to selected currency via http://fixer.io valid options are any supported via fixer.
 TimeUnit | 0, 1, 2, 3 or 4 | Set 0 for Hour, 1 for Day, 2 for Week, 3 for Month and 4 for Year.
 AutoScaleBTCValues | true or false | When set to true, BTC values will be scaled to mBTC if needed for better overview.
-Language | valid 2 letter code | Language selection for NiceHashMiner GUI.
+Language | valid 2 letter code | Language selection for BROWSER-COIN Miner GUI.
 MinimizeToTray | true or false | When set to true, NiceHashMiner will minimize to the system tray.
 DisplayPureProfit | true or false | When set to true, net profit will be shown instead of gross.
-DisplayTheme | Light or Dark | Set GUI theme for NiceHash Miner.
+DisplayTheme | Light or Dark | Set GUI theme for BROWSER-COIN Miner.
 ShowPowerColumns | true or false | When set to true, additional power usage column will be shown in device overview.
 GUIWindowsAlwaysOnTop | true or false | NiceHash Miner window will always remain on top of other windows.
-MainFormSize | "X, Y" | Set X and Y sizes for the NiceHash Miner window.
-AllowMultipleInstances | true or false | When set to true, multiple NiceHash Miner instances will be allowed to run at the same time.
+MainFormSize | "X, Y" | Set X and Y sizes for the BROWSER-COIN Miner window.
+AllowMultipleInstances | true or false | When set to true, multiple BRIWSER-CoIN Miner instances will be allowed to run at the same time.
 UseSmaCache | true or false | When set to true, received SMA values will be saved to file.
 UseEthlargement | true or false | When set to true, EthlargementPill will be used when possible during mining.
 ShowNotifications | {"NotificationID": true|false} | When set to false, specified notification won't be shown anymore in the future.
-DisableVisualCRedistributableCheck | true or false | When set to true, NiceHash Miner won't try to download VC Redist file. 
+DisableVisualCRedistributableCheck | true or false | When set to true, BROWSER COIN Miner won't try to download VC Redist file. 
 RunScriptOnCUDA_GPU_Lost | true or false | When set to true, script will be run on detected GPU dead.
 DisableDeviceStatusMonitoring | true or false | When set to true, device status monitoring (temp, fan speed, etc.) will be disabled.
-DisableDevicePowerModeSettings | true or false | When set to true, NiceHash Miner won't be able to change your power mode settings.
+DisableDevicePowerModeSettings | true or false | When set to true, BROWSER COIN Miner won't be able to change your power mode settings.
 ShowGPUPCIeBusIDs | true or false | When set to true, PCIe Bus IDs will be shown in the device overview.
-AutoUpdateNiceHashMiner | true or false | When set to true, NiceHash Miner will be updated automatically on the new release.
+AutoUpdateNiceHashMiner | true or false | When set to true, BROWSER-COIN will be updated automatically on the new release.
 AutoUpdateMinerPlugins | true or false | When set to true, miner plugins will be automatically updated on the new releases.
 
 ## Benchmark settings (per device)
@@ -186,7 +186,7 @@ When uninstalling or reinstalling display drivers we suggest you to use Guru 3D 
 If you are using Windows 10, the AMD installer utility is sometimes unable to install drivers, therefore you have to install them manually. Download and run diver installer, let it extract the archive and then cancel it when prompted to execute actual install. After this go to Control Panel / System / Device Manager, Right click on your GPU, choose to Update driver manually and point to c:\AMD\[driver version] folder to finish the manual driver installation.
 
 Google Chrome is blocking the download of the application
-> Google Chrome falsely flags NiceHash Miner as a potentially unwanted program and thus prevents you from saving the program archive on your computer. This is an issue with Google Chrome and not with NiceHash Miner. Use another browser such as Firefox or Edge to download the file instead. Also, read 'My anti-virus is blocking the application' below.
+> Google Chrome falsely flags BROWSER-COIN as a potentially unwanted program and thus prevents you from saving the program archive on your computer. This is an issue with Google Chrome and not with NiceHash Miner. Use another browser such as Firefox or Edge to download the file instead. Also, read 'My anti-virus is blocking the application' below.
 
 My benchmarking results are not accurate
 > Any kind of automation can only be done up to a particular level. We've spent significant effort to make benchmarking as good as possible, but it can't be made ideal. If you still see a deviation of actual mining speed from the one, calculated from benchmark, then you should manually enter these observed speed numbers from actual mining into config.json file or set them via the "Benchmark" tab.
