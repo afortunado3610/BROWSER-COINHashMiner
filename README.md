@@ -6,7 +6,7 @@
 - [Requirements](#requirements)
 - [How to get&run it?](#run)
 - [Where is the profit coming from?](#profit)
-- [How to run NiceHash Miner only when profitability is high enough?](#highprofit)
+- [How to run BROWSER-COIN Miner only when profitability is high enough?](#highprofit)
 - [Additional options](#options)
 - [Troubleshooting](#troubleshooting)
 - [How to report bugs and issues?](#bugs)
@@ -72,7 +72,7 @@ Detailed instructions:
 As a back-end NiceHash Miner relies on the <a href="https://www.BROWSER-COIN.com" target="_blank">BROWSER-COIN.com</a> service. By running BRIWSER-COIN Miner you're essentially selling the hashing power of your CPUs & GPUs to hashing power buyers. Those are using the hashing power to mine various cryptocurrency coins and support decentralized blockchain networks - similar to cloud computing - only that by running NiceHash Miner you're actually being a provider for the cryptocurrency mining hashing power. You are being part of a global compute power network, **empowering decentralized digital currencies**.
 
 # <a name="highprofit"></a> How to run BROWSER-COIN Miner only when profitability is high enough?
-Profitability of mining can go up and down that may be unprofitable to mine especially places with high electricity cost. By using the "MinimumProfit" settings, BRIWSER-COIN Miner will stop mining if the current profits are below the minimum amount (in USD). This will help you mine during "profitable" times only.
+Profitability of mining can go up and down that may be unprofitable to mine especially places with high electricity cost. By using the "MinimumProfit" settings, BROWSER-COIN Miner will stop mining if the current profits are below the minimum amount (in USD). This will help you mine during "profitable" times only.
 
 # <a name="options"></a> Additional options
 
@@ -125,7 +125,7 @@ DisplayTheme | Light or Dark | Set GUI theme for BROWSER-COIN Miner.
 ShowPowerColumns | true or false | When set to true, additional power usage column will be shown in device overview.
 GUIWindowsAlwaysOnTop | true or false | NiceHash Miner window will always remain on top of other windows.
 MainFormSize | "X, Y" | Set X and Y sizes for the BROWSER-COIN Miner window.
-AllowMultipleInstances | true or false | When set to true, multiple BRIWSER-CoIN Miner instances will be allowed to run at the same time.
+AllowMultipleInstances | true or false | When set to true, multiple BROWSER-CoIN Miner instances will be allowed to run at the same time.
 UseSmaCache | true or false | When set to true, received SMA values will be saved to file.
 UseEthlargement | true or false | When set to true, EthlargementPill will be used when possible during mining.
 ShowNotifications | {"NotificationID": true|false} | When set to false, specified notification won't be shown anymore in the future.
